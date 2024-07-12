@@ -8,7 +8,6 @@ body{
 .contenedor{
     align-self: center;
     display: flex;
-    
     border: 4px green solid;
     width: 90%;
     height: 11em;
